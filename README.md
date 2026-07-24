@@ -2,7 +2,7 @@
 <div align="center">
 
 <a href="https://github.com/soapmapmul">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Bekmyrza;Building+real+products%2C"Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Bekmyrza;Building+real+products"Typing SVG" />
 </a>
 
 <br/>
