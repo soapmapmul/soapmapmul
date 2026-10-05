@@ -2,7 +2,7 @@
 <div align="center">
 
 <a href="https://github.com/soapmapmul">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Bekmyrza;Building+real+products"Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Bekmyrza;Building+real+products" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -54,16 +54,15 @@ I'm not a senior yet — and that's fine. I'm the kind of developer who **ships 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=soapmapmul&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=22d3ee&icon_color=a855f7" alt="stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soapmapmul&layout=compact&theme=tokyonight&hide_border=true&title_color=22d3ee&langs_count=8" alt="top langs" />
+<img height="180em" src="./profile/stats.svg" alt="GitHub stats" />
+<img height="180em" src="./profile/top-langs.svg" alt="Top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=soapmapmul&theme=tokyonight&hide_border=true&ring=22d3ee&fire=a855f7&currStreakLabel=22d3ee" alt="streak" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=soapmapmul&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6" alt="trophies" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg" />
+  <img src="./profile/snake-light.svg" alt="Contribution snake" />
+</picture>
 
 </div>
 
