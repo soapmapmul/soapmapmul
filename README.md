@@ -15,11 +15,11 @@
 
 <!-- ======================= ABOUT ======================= -->
 
-## 🚀 About me
+## About me
 
 ```yaml
 name: Bekmyrza
-location: Shymkent, Kazakhstan 🇰🇿
+location: Shymkent, Kazakhstan
 role: Learning fast, shipping faster
 current_focus:
   - Building websites for real businesses
@@ -28,11 +28,11 @@ current_focus:
 motto: "Every commit is a step out."
 ```
 
-I'm not a senior yet — and that's fine. I'm the kind of developer who **ships real things while still learning**: live client websites, bots, automation pipelines. Every project here is me leveling up in public. 📈
+I'm not a senior yet — and that's fine. I'm the kind of developer who **ships real things while still learning**: live client websites, bots, automation pipelines. Every project here is me leveling up in public.
 
 <!-- ======================= TECH STACK ======================= -->
 
-## 🛠️ Tech I work with
+## Tech I work with
 
 <div align="center">
 
@@ -50,7 +50,7 @@ I'm not a senior yet — and that's fine. I'm the kind of developer who **ships 
 
 <!-- ======================= STATS WIDGETS ======================= -->
 
-## 📊 My GitHub in numbers
+## My GitHub in numbers
 
 <div align="center">
 
@@ -68,18 +68,18 @@ I'm not a senior yet — and that's fine. I'm the kind of developer who **ships 
 
 <!-- ======================= PROJECTS ======================= -->
 
-## 🌱 What I'm building
+## What I'm building
 
-- 🍽️ **Client websites** — live sites for real businesses in Shymkent (restaurants, clinics)
-- 🤖 **Telegram bots** — AI assistants & automation for small businesses
-- 🎬 **Content automation** — video pipelines and creative tools
-- 🧪 **Side quests** — fun web apps I build to learn (music players, quizzes, games)
+- **Client websites** — live sites for real businesses in Shymkent (restaurants, clinics)
+- **Telegram bots** — AI assistants & automation for small businesses
+- **Content automation** — video pipelines and creative tools
+- **Side quests** — fun web apps I build to learn (music players, quizzes, games)
 
-> 📌 Pinned repos below show my latest work — always something new cooking.
+> Pinned repos below show my latest work — always something new cooking.
 
 <!-- ======================= CONTACT ======================= -->
 
-## 🤝 Let's connect
+## Let's connect
 
 <div align="center">
 
@@ -93,6 +93,6 @@ I'm not a senior yet — and that's fine. I'm the kind of developer who **ships 
 
 <br/>
 
-*⭐ Building the future one commit at a time. If you're on the same path — let's grow together.*
+*Building the future one commit at a time. If you're on the same path — let's grow together.*
 
 </div>
